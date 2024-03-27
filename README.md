@@ -19,3 +19,10 @@ Wrote a Dart program to determine the grade based on a student's marks. The prog
 - If the average marks between 75 and 85 (inclusive), print "Very Good".
 - If the average marks between 65 and 75 (inclusive), print "Good".
 - If the average marks are below 65, print "Average".
+
+## Feature
+- The program ask for user to input marks for 3 subjects
+- the average is auto calculated and the student is graded by the system
+
+### technology used
+- Dart
